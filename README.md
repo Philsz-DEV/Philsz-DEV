@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Philsz-DEV
 - 👀 I’m interested in JS,PY,HTML,CSS and later on C#
 - 🌱 I’m currently learning Programming
-- 📫 How to reach me: Email Via Philszgithelp@gmail.com
+- 📫 How to reach me: Email Via Philszgithelp@gmail.com / Discord: philsz
 
 <!---
 Philsz-DEV/Philsz-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
